@@ -1,1 +1,1 @@
-This Project is built by Apex@LPU.
+This Project is being built by Team Apex@LPU.
